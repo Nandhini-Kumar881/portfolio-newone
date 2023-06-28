@@ -17,25 +17,25 @@ function Home() {
         </div>
       </div>
       <div className="skills">
-        <h1> Skills</h1>
+        <h1> LANGUAGES KNOWN</h1>
         <ol className="list">
           <li className="item">
-            <h2> Front-End</h2>
-            <span>
+            <h2> English</h2>
+            {/* <span>
               ReactJS, Angular, Redux, HTML, CSS, React Native, Flutter, NPM,
               Ionic, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
-            </span>
+            </span> */}
           </li>
           <li className="item">
-            <h2>Back-End</h2>
-            <span>
+            <h2> Tamil</h2>
+            {/* <span>
               NodeJS, Java Spring, .NET, ExpressJS, GraphQL, ApolloServer,
               MySQL, MongoDB, DynamoDB, DigitalOcean, AWS S3, MS SQL
-            </span>
+            </span> */}
           </li>
           <li className="item">
-            <h2>Languages</h2>
-            <span>JavaScript, Java, Python, C#, C, C++, TypeScript, Go</span>
+            <h2> Malayalam</h2>
+            {/* <span>JavaScript, Java, Python, C#, C, C++, TypeScript, Go</span> */}
           </li>
         </ol>
       </div>
