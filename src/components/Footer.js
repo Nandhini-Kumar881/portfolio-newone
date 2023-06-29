@@ -12,7 +12,6 @@ function Footer() {
         <FacebookIcon />
         <a target="_blank" href="https://www.linkedin.com/in/nandhini-kumar-073b82212/" ><LinkedInIcon /></a>
       </div>
-      <p> &copy; 2022 pedrotec.com</p>
     </div>
   );
 }

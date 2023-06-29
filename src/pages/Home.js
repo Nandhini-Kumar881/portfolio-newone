@@ -12,8 +12,9 @@ function Home() {
         <div className="prompt">
           <p>An Innovative <strong>Front-End developer</strong> with a passion for learning and creating.</p>
           <a target="_blank" href="https://www.linkedin.com/in/nandhini-kumar-073b82212/" ><LinkedInIcon /></a>
-          <EmailIcon />
-          <GithubIcon />
+          <a target="_blank" href="https://github.com/Nandhini-Kumar881" ><GithubIcon /></a>
+          <a target="_blank" href="mailto:nandhunandhini881@gmail.com" ><EmailIcon /></a>
+            
         </div>
       </div>
       <div className="skills">

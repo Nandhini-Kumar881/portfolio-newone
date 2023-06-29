@@ -13,7 +13,10 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #151614;
+    background-image: url("../assets/background1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     color: #f0f0f0;
   }
   
