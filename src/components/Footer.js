@@ -8,8 +8,8 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <InstagramIcon />
-        <FacebookIcon />
+        <a target="_blank" href="https://instagram.com/_crazy_edition_?igshid=MzNlNGNkZWQ4Mg=="><InstagramIcon /></a>
+        <a target="_blank" href="https://www.facebook.com/nandhini.kumar.967?mibextid=ZbWKwL"><FacebookIcon /></a>
         <a target="_blank" href="https://www.linkedin.com/in/nandhini-kumar-073b82212/" ><LinkedInIcon /></a>
       </div>
     </div>

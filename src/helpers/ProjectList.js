@@ -9,31 +9,31 @@ export const ProjectList = [
   {
     name: "HTML 5",
     image: Proj1,
-    skills : "ddd",
+    skills : "Walgreens and Portfolio",
   },
   {
     name: "CSS 3",
     image: Proj2,
-    skills: "React,Node.js,MongoDB",
+    skills: "Walgreens and Portfolio",
   },
   {
     name: "JavaScript",
     image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
+    skills: "Walgreens and Portfolio",
   },
   {
     name: "React JS",
     image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
+    skills: "Walgreens and Portfolio",
   },
   {
     name: "Redux",
     image: Proj5,
-    skills: "JavaScript,HTML,CSS",
+    skills: "Walgreens",
   },
   {
     name: "Bootstrap",
     image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
+    skills: "Training Projects",
   },
 ];

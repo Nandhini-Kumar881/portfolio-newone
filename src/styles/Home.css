@@ -21,7 +21,7 @@
   }
   
   .about h2 {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: emoji;
     font-size: 80px;
     color: #e9d35b;
     height: 50px;
@@ -36,18 +36,61 @@
     margin: 5px;
     color: white;
   }
+
+  .AboutMeLink{
+    text-decoration: none;
+    color: #0a0a0a;
+    font-weight: bolder;
+  }
+  .AboutMebtn {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    background-color: #e9d35b;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-bottom: 25px;
+  }
+  
+  .AboutMebtn:hover {background-color: #3e8e41}
+  
+  .AboutMebtn:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .card{
+  box-shadow: 0 4px 8px 0 rgba(9, 182, 61, 0.2);
+  max-width: 80%;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+  }
   
   .skills {
-    font-size: 35px;
+    font-size: 20px;
     width: 100%;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    color: #0a0a0a;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .skills p{
+    padding: 0 20px 0 20px
   }
   
   .skills h1 {
-    color: #3e497a;
+    color: #0a0a0a;
   }
   
   .skills .list {
