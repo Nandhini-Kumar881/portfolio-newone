@@ -11,3 +11,10 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.pagenotfound {
+  height: 300px;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 35px;
+}

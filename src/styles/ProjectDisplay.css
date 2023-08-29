@@ -20,6 +20,7 @@
   .project p {
     font-size: 25px;
     color: #3e497a;
+    padding-left: 10px;
   }
   
   .project svg {
