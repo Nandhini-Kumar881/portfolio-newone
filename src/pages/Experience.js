@@ -57,7 +57,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2021 - present"
+          date="2021 - 2023"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -70,6 +70,23 @@ function Experience() {
           <p>
             Worked in WALGREENS FINDCARE Immunization Project as a Front-End developer 
             and effectively translated client requirements into application designs and system requirements.
+          </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="2023 - present"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+           System Engineer - Tata Consultancy Services
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Bangalore
+          </h4>
+          <p>
+            Worked in GENUINE PARTS COMPANY Project to implement front-end
+             components with progressive Vue.js framework
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
